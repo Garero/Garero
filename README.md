@@ -6,6 +6,7 @@ Me chamo Gabriel Reis Rodriguez sou treinee de java, estudo atualmente na UNIP p
 
 #### O que estou fazendo atualmente?
 ❤ Atualmente trabalho como Treinee de Java na empresa FOURSYS
+
 📚 Estudando Analise e Desenvolvimento de Sistemas
 
 
@@ -16,6 +17,7 @@ Me chamo Gabriel Reis Rodriguez sou treinee de java, estudo atualmente na UNIP p
 #### Contato
 
 ✏️ LinkedIn: https://www.linkedin.com/in/gabriel-rodriguez-62626a1a3
+
  📧 Email: gabrielrrodriguez4@gmail.com
 
 #### Meu Status no GitHub
